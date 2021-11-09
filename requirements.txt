@@ -1,4 +1,4 @@
-	autoscraper==1.1.12
+autoscraper==1.1.12
 beautifulsoup4==4.10.0
 bs4==0.0.1
 jedi==0.18.0
